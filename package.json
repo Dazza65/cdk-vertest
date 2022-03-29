@@ -1,6 +1,6 @@
 {
   "name": "cdk-vertest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": {
     "cdk-vertest": "bin/cdk-vertest.js"
   },
